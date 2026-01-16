@@ -1,0 +1,8 @@
+# Ignore dataset
+mvtec_anomaly_detection/
+
+# Ignore artifacts
+artifacts/
+
+# Ignore notebook cache
+.ipynb_checkpoints/
